@@ -1,2 +1,6 @@
-# surveys
-Proyecto de encuestas desarrollado en Django Python
+# Surveys
+Aplicación de encuestas:
+1. Sitio público que permite las personas ver sondeos y votar por ellos
+2. Sitio administrador para añadir, modificar y borrar sondeos
+
+Desarrollado en Django python tomado el tutorial de <a href="https://docs.djangoproject.com/es/5.1/intro/tutorial01/" title="Encuestas Django"> 
